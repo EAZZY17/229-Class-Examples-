@@ -1,0 +1,25 @@
+{
+  "name": "229-class-examples-",
+  "version": "1.0.0",
+  "description": "Comp 229 Class Examples",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EAZZY17/229-Class-Examples-.git"
+  },
+  "keywords": [
+    "COMP",
+    "229",
+    "MERN",
+    "Express"
+  ],
+  "author": "Edwin Makolo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EAZZY17/229-Class-Examples-/issues"
+  },
+  "homepage": "https://github.com/EAZZY17/229-Class-Examples-#readme"
+}
